@@ -20,3 +20,4 @@ training:
     weight_decay: 0.0005
     resume: frrnB_cityscapes_best_model.pkl
     visdom: False
+    sundongyi： 本地gengxin
