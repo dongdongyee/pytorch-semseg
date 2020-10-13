@@ -24,3 +24,5 @@ training:
         size_average: False
     lr_schedule:
     resume: fcn8s_pascal_best_model.pkl
+
+    sundongyi： 本地gengxin2
